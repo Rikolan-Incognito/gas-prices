@@ -4,4 +4,8 @@ Baltic Gas prices are derived from "https://gas.didnt.work/?country=" website th
 
 By running the main script, it will ask for a user's country, gas station company, location of said gas station and then widget color. After input, a new script will be created in app, that will work as a widget with these set preferences. These additional scripts can be created or deleted how many times one may like. In addition, these widget scripts don't need the main app to function.
 
+![image](https://github.com/Rikolan-Incognito/gas-prices/assets/156215178/df8fe9f0-9749-4faa-884a-4a3abb5068f6)
+
+![image](https://github.com/Rikolan-Incognito/gas-prices/assets/156215178/f08d1f54-5e33-4fa8-b096-13c896e20505)
+
 ![image](https://github.com/Rikolan-Incognito/gas-prices/assets/156215178/5781d493-6f9b-4821-b376-aeab4ad28af8)
